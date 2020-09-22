@@ -3,15 +3,12 @@
 ### a bunch of useful links
 
 >`you can fork this repo and always have these nifty links!`
->`make a pull request with your own additions. (NOTE: any additions should be current,relevant, and point to installation/tutorial documentation)`
+>`make a pull request with your own additions. (NOTE: any additions should be current,relevant, and point to installation/tutorial documentation.)`
 
-## table of contents
+## git links
 
-- list
-- of
-- content
-- here
-- maybe 
+- [student dev pack](https://education.github.com/pack) 
+- [github experts training](https://education.github.com/students/experts)
 
 # languages section
 ### javascript
@@ -35,3 +32,17 @@
 - [tailwind css](https://tailwindcss.com/docs/installation)
 - [material ui (react)](https://material-ui.com/getting-started/installation/)
 - [ant design (react)](https://ant.design/docs/react/introduce)
+
+### photos
+- [unsplash](https://unsplash.com/)
+- [pexel](https://www.pexels.com/)
+
+### graphics
+- [canva](https://www.canva.com/)
+- [inkscape](https://inkscape.org/release/1.0/windows/)
+
+# others section
+### learning platforms
+- [freecodecamp (free)](https://www.freecodecamp.org/learn)
+- [scrimba (free & paid)](https://scrimba.com/allcourses)
+- [exercism.io(free)](https://exercism.io/my/tracks)
