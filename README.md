@@ -16,6 +16,7 @@
 - [ReactJs](https://reactjs.org/tutorial/tutorial.html)
 - [NextJs](https://nextjs.org/learn/basics/create-nextjs-app?utm_source=next-site&utm_medium=nav-cta&utm_campaign=next-website)
 - [Svelte](https://svelte.dev/tutorial/basics)
+- [The Always-recent Guide to Creating Your Own Development Environment for Node and React](https://jscomplete.com/learn/1rd-reactful)
 
 ### c#
 - [dotnet](https://docs.microsoft.com/en-us/dotnet/csharp/)
