@@ -55,6 +55,9 @@
 - [Canva](https://www.canva.com/)
 - [Inkscape](https://inkscape.org/release/1.0/windows/)
 - [Figma](https://www.figma.com/)
+- [krita](https://krita.org/en/)
+- [gimp](https://www.gimp.org/)
+
 
 # Other Useful Stuff
 ### Learning Platforms
