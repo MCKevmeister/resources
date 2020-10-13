@@ -2,61 +2,61 @@
 
 # Resources
 
-### a bunch of useful links
+## basically an evolving bunch of useful links
 
-> `you can fork this repo and always have these nifty links!` >`make a pull request with your own additions. (NOTE: any additions should be current, relevant, and point to installation/tutorial documentation.)`
+>`you can fork this repo and always have these nifty links!`
+>`make a pull request with your own additions. (NOTE: any additions should be current,relevant, and point to installation/tutorial documentation. Admins keep this tidy.)`
 
-## git links
+## Github Links
+- [Student Developer Pack](https://education.github.com/pack) 
+- [Github Experts Training](https://education.github.com/students/experts)
+- [Github Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Github Guides](https://guides.github.com/)
+- [Github Guides YouTube Channel](https://www.youtube.com/githubguides)
+# Languages
+## JavaScript
 
-- [student dev pack](https://education.github.com/pack)
-- [github experts training](https://education.github.com/students/experts)
-- [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-# languages section
-
-### javascript
+### Documentation && Framework Documentation
 
 - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 - [ReactJs](https://reactjs.org/tutorial/tutorial.html)
 - [NextJs](https://nextjs.org/learn/basics/create-nextjs-app?utm_source=next-site&utm_medium=nav-cta&utm_campaign=next-website)
 - [Svelte](https://svelte.dev/tutorial/basics)
+
+### Tutorials
 - [The Always-recent Guide to Creating Your Own Development Environment for Node and React](https://jscomplete.com/learn/1rd-reactful)
 
-### c#
+# c#
+### Documentation && Framework Documentation
+- [Dotnet](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-- [dotnet](https://docs.microsoft.com/en-us/dotnet/csharp/)
+# Markdown
+- [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+# Styles
+### Color 
+- [Material](https://material.io/resources/color/#!/?view.left=1&view.right=0&primary.color=7B1FA2&secondary.color=FF6D00) 
+- [Adobe](https://color.adobe.com/create/color-wheel)
+- [Themer.dev](https://themer.dev/)
+- [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 
-# styles section
+### CSS Frameworks
+- [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+- [Tailwind CSS](https://tailwindcss.com/docs/installation)
+- [Material UI (React)](https://material-ui.com/getting-started/installation/)
+- [Antd (React)](https://ant.design/docs/react/introduce)
 
-### color
+### Photos
+- [Unsplash](https://unsplash.com/)
+- [Pexel](https://www.pexels.com/)
 
-- [material color](https://material.io/resources/color/#!/?view.left=1&view.right=0&primary.color=7B1FA2&secondary.color=FF6D00)
-- [adobe color](https://color.adobe.com/create/color-wheel)
-- [themer.dev](https://themer.dev/)
-- [paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+### Graphics
+- [Canva](https://www.canva.com/)
+- [Inkscape](https://inkscape.org/release/1.0/windows/)
+- [krita](https://krita.org/en/)
+- [gimp](https://www.gimp.org/)
 
-### css frameworks
-
-- [bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-- [tailwind css](https://tailwindcss.com/docs/installation)
-- [material ui (react)](https://material-ui.com/getting-started/installation/)
-- [ant design (react)](https://ant.design/docs/react/introduce)
-
-### photos
-
-- [unsplash](https://unsplash.com/)
-- [pexel](https://www.pexels.com/)
-
-### graphics
-
-- [canva](https://www.canva.com/)
-- [inkscape](https://inkscape.org/release/1.0/windows/)
-
-# others section
-
-### learning platforms
-
-- [freecodecamp (free)](https://www.freecodecamp.org/learn)
-- [scrimba (free & paid)](https://scrimba.com/allcourses)
-- [exercism.io(free)](https://exercism.io/my/tracks)
-- [LinkedIn Learning](https://www.linkedin.com/learning/)
+# Other Useful Stuff
+### Learning Platforms
+- [FreeCodeCamp (free)](https://www.freecodecamp.org/learn)
+- [Scrimba (free & paid)](https://scrimba.com/allcourses)
+- [Exercism.io (free)](https://exercism.io/my/tracks)
