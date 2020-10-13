@@ -13,7 +13,9 @@
 - [Github Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Github Guides](https://guides.github.com/)
 - [Github Guides YouTube Channel](https://www.youtube.com/githubguides)
+
 # Languages
+
 ## JavaScript
 
 ### Documentation && Framework Documentation
@@ -23,15 +25,19 @@
 - [NextJs](https://nextjs.org/learn/basics/create-nextjs-app?utm_source=next-site&utm_medium=nav-cta&utm_campaign=next-website)
 - [Svelte](https://svelte.dev/tutorial/basics)
 
-### Tutorials
-- [The Always-recent Guide to Creating Your Own Development Environment for Node and React](https://jscomplete.com/learn/1rd-reactful)
+# TypeScript
+### Documentation && Framework Documentation
+- [TypeSCript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 
-# c#
+# C#
 ### Documentation && Framework Documentation
 - [Dotnet](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-# Markdown
-- [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+# Python
+### Documentation && Framework Documentation
+- [Python](https://docs.python.org/3/)
+
+
 # Styles
 ### Color 
 - [Material](https://material.io/resources/color/#!/?view.left=1&view.right=0&primary.color=7B1FA2&secondary.color=FF6D00) 
@@ -52,11 +58,19 @@
 ### Graphics
 - [Canva](https://www.canva.com/)
 - [Inkscape](https://inkscape.org/release/1.0/windows/)
+- [Figma](https://www.figma.com/)
 - [krita](https://krita.org/en/)
 - [gimp](https://www.gimp.org/)
+
 
 # Other Useful Stuff
 ### Learning Platforms
 - [FreeCodeCamp (free)](https://www.freecodecamp.org/learn)
 - [Scrimba (free & paid)](https://scrimba.com/allcourses)
 - [Exercism.io (free)](https://exercism.io/my/tracks)
+
+### Tutorials
+- [The Always-recent Guide to Creating Your Own Development Environment for Node and React](https://jscomplete.com/learn/1rd-reactful)
+
+### Cheat Sheets
+- [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
